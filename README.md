@@ -5,7 +5,7 @@ Analisar imagens digitais via hurts e Binarizacao
 
 Utilizando o Programa
 
-Primeiramente, acesse o repositório GitHub no link . Baixe a pasta "Prototipo". Em seguida, leia o arquivo de texto que explica como compilar o script e instalar as bibliotecas necessárias para executar o programa. Após instalar as dependências, navegue até o local do arquivo executável e abra o terminal.
+Primeiramente, acesse o repositório GitHub no link . Baixe os arquivos script.x e  i.py . Em seguida, leia o arquivo de texto que explica como compilar o script e instalar as bibliotecas necessárias para executar o programa. Após instalar as dependências, navegue até o local do arquivo executável e abra o terminal.
 
 Execute o programa utilizando o comando: python3 i.py
 
