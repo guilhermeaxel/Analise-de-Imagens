@@ -1,0 +1,23 @@
+Para rodar o Programa precisa rodar esse script
+Instruções para execução do script:
+
+    Dê permissão de execução ao arquivo:
+
+chmod +x script.x
+
+Execute o script para instalar as dependências:
+
+    sudo ./script.x
+
+Isso instalará todas as bibliotecas necessárias para rodar seu programa.
+apos intalar todos os pacotes 
+Para compilar o programa basta 
+
+python3 i.py
+
+Instrução de uso 
+localizar as imagens a qual querem analizar
+programa nao deixa gerar grafico b/d x propriedade se limiar for diferente um do outro(No caso quer gerar esse grafico recomendo fazer seguindo um limiar por vez analisa todas imagens interessadas com mesmo limiar para ter esses graficos pois nao faz sentido gerar graficos b/d pela propriedade com limiares distinto
+O programa ja conta com uma linearizacao para se notar a sua correlacao
+entre a propriedade e comportamento b d
+
